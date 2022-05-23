@@ -1,0 +1,11 @@
+<div class="card" *ngIf="activado">
+    <div class="card-body text-center">
+        <span class="titulo" ><h4>{{markerSelect.name}}</h4></span>
+        <img src="{{markerSelect.foto}}" width="300">
+        <h6 class="mt-2">{{markerSelect.lon}},{{markerSelect.lat}}</h6>
+        <h5 class="descripcion">
+            {{markerSelect.descripcion}}
+        </h5>
+    </div>
+</div>
+        

@@ -1,0 +1,35 @@
+    [
+        {
+            "name":"Campanario centro comercial",
+            "lat":-76.594693,
+            "lon":2.459562,
+            "foto":"../../../assets/images/campanario.jpg",
+            "descripcion":"Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "activado":false            
+        },
+        {
+            "name":"Hospital Universitario San Jose Ese",
+            "lat":-76.599827,
+            "lon":2.449850,
+            "foto":"../../../assets/images/hospitalSanJose.jpeg",
+            "descripcion":"Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "activado":false            
+        },
+        {
+            "name":"Parque Caldas",
+            "lat": -76.606278,
+            "lon":2.441907,
+            "foto":"../../../assets/images/parqueCaldas.jpg",
+            "descripcion":"Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "activado":false   
+        },
+        {
+            "name":"Multiplaza Centro Comercial",
+            "lat": -74.123712,
+            "lon":4.656582,
+            "foto":"../../../assets/images/multiPlaza.jpg",
+            "descripcion":"Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen.",
+            "activado":false
+               
+        }
+    ]
